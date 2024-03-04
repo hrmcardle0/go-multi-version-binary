@@ -1,2 +1,8 @@
 github.com/hrmcardle0/go-multi-version-module v0.0.0-20240304202555-360b59ff85a5 h1:qrxH8/hOIZvjl6siOnWBn24doDiua/Kn2M3MANsHk3E=
 github.com/hrmcardle0/go-multi-version-module v0.0.0-20240304202555-360b59ff85a5/go.mod h1:yMPct3EbnvOgIGLNkeELphfph9oB5kLzV1zmWNvLa30=
+github.com/hrmcardle0/go-multi-version-module v0.0.0-20240304203637-637ac776a784 h1:sx0rPE9ePH/f6eyXRpRozJznUWgk6HfNSNoiMIqqx1I=
+github.com/hrmcardle0/go-multi-version-module v0.0.0-20240304203637-637ac776a784/go.mod h1:yMPct3EbnvOgIGLNkeELphfph9oB5kLzV1zmWNvLa30=
+github.com/hrmcardle0/go-multi-version-module/v2 v2.0.0-20240304203637-637ac776a784 h1:7FZCy/jmVsHIjDTTlbzCjA3eDe3nPyj58rS1zwm//WI=
+github.com/hrmcardle0/go-multi-version-module/v2 v2.0.0-20240304203637-637ac776a784/go.mod h1:rLmPSXYkRnpneXpOB9Ft6jhZxrzzvgU4aBHcxxBPAl0=
+github.com/hrmcardle0/go-multi-version-module/v2 v2.0.0-20240304203849-fef9c9953128 h1:hS+lbRywJ2F2UukvYaKqLxYJRpghIfnFt5BO4iQMHOE=
+github.com/hrmcardle0/go-multi-version-module/v2 v2.0.0-20240304203849-fef9c9953128/go.mod h1:rLmPSXYkRnpneXpOB9Ft6jhZxrzzvgU4aBHcxxBPAl0=
